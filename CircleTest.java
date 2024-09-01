@@ -22,7 +22,7 @@ class Circle {
     }
 }
 
-public class Main {
+public class CircleTest {
     public static void main(String[] arg) {
         Circle c = new Circle();
         Circle c1 = new Circle();
